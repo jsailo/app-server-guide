@@ -23,16 +23,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: Documentation Scope and Audience
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Installation Requirements
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Supported Devices
       url: /mydoc_supported_features.html
       output: web, pdf
 
