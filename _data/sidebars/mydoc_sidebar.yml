@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: Documentation scope and audience
-      url: /doc-scope-audience.html
+      url: /mydoc_scope_audience.html
       output: web, pdf
 
     - title: Installation Requirements
