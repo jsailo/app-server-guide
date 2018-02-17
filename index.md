@@ -12,6 +12,6 @@ You can use this secure and completely integrated system to do the following:
 * Both the Adapter Designer and the Application Administrator tool employ intelligent-data adapters to manipulate data sources on servers.
 * The Application Designer enables you to configure, assemble, customize, and build new applications without writing a single line of code. This tool uses the Application Framework to develop applications bound to data definitions in metadata by abstracting the application from the data living in the back end enterprise application.
 
-<img src="media/e94ba4cf80f4ebaec9e61aa94282e527.jpg" style="width: 650px;"/>
+<img src="images/architecture-diag.png" style="width: 650px;"/>
 
 {% include links.html %}
