@@ -194,7 +194,7 @@ entries:
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-  - title: Appendix: Sample Server-Side Business Rule
+  - title: Appendix Sample Server-Side Business Rule
     output: web, pdf
 #Configure the Logging
  #   folderitems:
