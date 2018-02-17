@@ -23,10 +23,14 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Documentation Scope and Audience
+    - title: Introduction
       url: /index.html
       output: web, pdf
       type: homepage
+
+    - title: Documentation scope and audience
+      url: /mydoc_introduction.html
+      output: web, pdf
 
     - title: Installation Requirements
       url: /mydoc_introduction.html
