@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Document Purpose
+    - title: Introduction
       url: /index.html
       output: web, pdf
       type: homepage
@@ -44,7 +44,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Application Server Architecture
     output: web, pdf
     folderitems:
 
@@ -56,7 +56,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: Create and Modify Business Constants
     output: web, pdf
     folderitems:
 
@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Business Objects Configuration
     output: web, pdf
 
     folderitems:
@@ -108,7 +108,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: Business Rules and Constants
     output: web, pdf
 
     folderitems:
@@ -128,7 +128,7 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Formatting
+  - title: Metadata Database
     output: web, pdf
 
     folderitems:
@@ -176,19 +176,36 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: Security Implementation
     output: web, pdf
+  - title: Configure the Logging
+    output: web, pdf
+    folderitems:
+
+    - title: 6.0 Release notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
 
     folderitems:
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
+  - title: Appendix: Sample Server-Side Business Rule
+    output: web, pdf
+#Configure the Logging
+ #   folderitems:
+ #   - title: Commenting on files
+#      url: /mydoc_commenting_on_files.html
+#      output: web, pdf
 #    - title: Git collaboration
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
 
-  - title: Publishing
+  - title: Users and Groups Configuration
     output: web, pdf
 
     folderitems:
